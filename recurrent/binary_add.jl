@@ -1,3 +1,5 @@
+import NNlib.σ
+
 # define some functions
 loss(x,y) = x - y
 
